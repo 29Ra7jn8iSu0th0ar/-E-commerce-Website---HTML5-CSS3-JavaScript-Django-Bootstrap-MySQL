@@ -21,7 +21,7 @@ An e-commerce web application built with **Django**, supporting product browsing
 You can add your project screenshots in a `screenshots/` folder and reference them here.  
 
 ### Homepage  
-![Homepage](screenshots/homepage.png)  
+![Homepage](screenshots/Home-Django-Ecommerce-Site.png)  
 
 ### Product Details  
 ![Product Details](screenshots/product_details.png)  
