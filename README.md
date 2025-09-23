@@ -20,17 +20,47 @@ An e-commerce web application built with **Django**, supporting product browsing
 
 You can add your project screenshots in a `screenshots/` folder and reference them here.  
 
-### Homepage  
-![Homepage](screenshots/Home-Django-Ecommerce-Site.png)  
+### Home Page  
+![Homepage](Screenshots/Home-Django-Ecommerce-Site.png)  
 
-### Product Details  
-![Product Details](screenshots/product_details.png)  
+### Login Page
+![Login Page](Screenshots/Login.png)  
+
+### Order Details
+![Order Details](Screenshots/Order-Details.png)  
+
+### Order History
+![Order History](Screenshots/Order-History.png)  
+
+### Change Paasword
+![Change Paasword](Screenshots/Change-Password-Page.png)  
+
+### Password Reset Form
+![Password Reset Form](Screenshots/Password-Reset-Form.png)  
+
+### Payment Successful
+![Payment Successful](Screenshots/Payment-Successful.png)  
+
+### Payment Testing View
+![Payment Testing View](Screenshots/Payment-Testing-View.png)  
+
+### Product Image
+![Product Image](Screenshots/Product-Image-Page.png)  
+
+### Register Page
+![Register Page](Screenshots/Register.png)  
+
+### Reviews 
+![Reviews](Screenshots/Reviews.png)  
+
+### Admin Page
+![Admin Page](Screenshots/google_auth-Change-social-application-Django-site-admin.png)  
 
 ### Cart Page  
-![Cart](screenshots/cart.png)  
+![Cart](Shopping-Cart/cart.png)  
 
-### Checkout with Razorpay  
-![Checkout](screenshots/checkout.png)  
+### Wishlist Page  
+![Wishlist Page](Screenshots/Wishlist.png)  
 
 ---
 
